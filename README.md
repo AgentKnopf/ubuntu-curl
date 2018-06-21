@@ -1,3 +1,3 @@
-# alpine-curl
-Based on alpine image with the following additions:
+# ubuntu-curl
+Based on an ubuntu image with the following additions:
 * Curl
